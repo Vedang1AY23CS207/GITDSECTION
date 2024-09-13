@@ -1,0 +1,3 @@
+ my name is vedang
+ iam studying cse at acharya 
+ this class is project management with GIT
